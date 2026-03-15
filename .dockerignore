@@ -1,0 +1,11 @@
+_build/
+deps/
+.elixir_ls/
+.git/
+.gitignore
+*.md
+test/
+priv/repo/seeds.exs
+vps_*.py
+deploy_*.py
+*.pdf
